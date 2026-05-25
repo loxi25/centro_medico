@@ -1,6 +1,6 @@
 <?php
     // parametros BD local - Constantes
-    define('USER', 'osanchez'); // crea la constante USER con valor 'root'
+    define('USER', 'mduque'); // crea la constante USER con valor 'root'
     define('PW', '12345');
     define('HOST', 'localhost');
     define('BD', 'centro_medico');

@@ -12,7 +12,7 @@
         <label for=""> login:</label>
         <input type = "text" , name = "login"/>
         <br><br>
-        <label for = >""pasword:</label>
+        <label for = >pasword:</label>
         <input type = "password" name = "password" id = "" required/>
         <br><br>
         <button type = "submit">ingresar</button>
